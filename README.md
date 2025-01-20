@@ -1,4 +1,4 @@
 # data-structures-tutorial
 "A collection of data structure programs and examples"
-<br>
-author - athul krishnan (csa)
+<p>
+author - athul krishnan pa </p>
